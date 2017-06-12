@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/nicoasp/pale_blue/issues"
   },
-  "homepage": "https://github.com/nicoasp/pale_blue#readme"
+  "homepage": "https://github.com/nicoasp/pale_blue#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
 }
